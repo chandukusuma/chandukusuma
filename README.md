@@ -8,6 +8,15 @@ I am skilled in HTML, CSS, Javascript, ReactJS, Redux,Node, Mongodb, Express. I 
 
 Apart from coding, I like gardening and Bike riding, cooking, travelling.
 
+  <h3><a href="https://chandusportfolio.netlify.app" target="_blank">
+    Portfolio
+  </a></h3>
+  <h3><a href="https://www.linkedin.com/in/chandrashekar-kusuma-49b65219a/" target="_blank">
+    LinkedIn
+  </a></h3>
+  
+
+
 | <a href="https://github.com/chandukusuma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chandukusuma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="chandu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <!--
